@@ -1,0 +1,14 @@
+=== Commit Log ===
+856747a Add initial stylesheet
+ab7def9 Add portfolio description to homepage
+a474ab9 Add homepage HTML
+
+=== Jumlah File HTML ===
+1
+
+=== Jumlah File CSS (Tracked) ===
+1
+
+=== Daftar File Tracked ===
+index.html
+style.css
